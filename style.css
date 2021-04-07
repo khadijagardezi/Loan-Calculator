@@ -1,0 +1,17 @@
+.background {
+    background-color: #ffadad;
+}
+
+.card-body {
+    background-color: #ffc6ff;
+}
+
+.btn {
+    background-color: #ff006e;
+    border: 2px solid black;
+}
+.btn:hover {
+    background-color: #ffc6ff;
+    border: 2px solid #ffc6ff;
+    color: black;
+}
